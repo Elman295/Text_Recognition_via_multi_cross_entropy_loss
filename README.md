@@ -13,9 +13,6 @@ Model : CRNN
 ![crnn](https://github.com/user-attachments/assets/b8d44760-e6c1-4ed5-816d-10aba740e8d8)
 
 
-
-
-
 ---
 | Image         | Ground Truth  |     Predicted  |  
 | ------------- | ------------- | -------------  | 
