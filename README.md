@@ -1,0 +1,1 @@
+# Text_Recognition_via_multi_cross_entropy_loss
