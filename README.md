@@ -4,9 +4,19 @@
 
 ---
 code will be uploaded soon. 
+
+
+
 ---
+Model : CRNN
+
+![crnn](https://github.com/user-attachments/assets/b8d44760-e6c1-4ed5-816d-10aba740e8d8)
 
 
+
+
+
+---
 | Image         | Ground Truth  |     Predicted  |  
 | ------------- | ------------- | -------------  | 
 | ![download](https://github.com/user-attachments/assets/b7cd9788-6a22-4c2c-b9eb-b212781d3a72)| the | the |
