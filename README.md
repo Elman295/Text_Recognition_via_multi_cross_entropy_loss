@@ -7,10 +7,7 @@ code will be uploaded soon.
 
 
 
----
-Model : CRNN
 
-![crnn](https://github.com/user-attachments/assets/252e5e33-28aa-45b2-9a81-c6c5d1ed6371)
 
 
 
